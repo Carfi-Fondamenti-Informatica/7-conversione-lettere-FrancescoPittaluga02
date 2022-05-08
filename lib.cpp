@@ -1,7 +1,7 @@
 #include "lib.h"
 bool primo(char a){
   
-  if((a>=65 and a<=90)or(a>=97 and a<=127){
+  if((a>=65 and a<=90)or(a>=97 and a<=127)){
     return true;
   }else{
     return false;
