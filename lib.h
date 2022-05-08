@@ -1,4 +1,4 @@
-#ifndef RICORSIONE_LILB_H
+#ifndef RICORSIONE_LIB_H
 #define RICORSIONE_LIB_H
 bool primo(char a);
 char trasformazione(char a);
